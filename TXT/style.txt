@@ -1,0 +1,14 @@
+== font - size
+        Mengeset ukuran font nya
+        mau besar atau kecil
+
+== font - family
+        Mengeset tema font
+
+== color 
+        Memasukkan warna ke
+        tag yang dituju
+
+== background - color
+        Memasukkan warna latar
+        belakang pada tag
