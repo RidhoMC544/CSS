@@ -1,14 +1,39 @@
 == font - size
         Mengeset ukuran font nya
         mau besar atau kecil
-
 == font - family
         Mengeset tema font
-
 == color 
         Memasukkan warna ke
         tag yang dituju
-
 == background - color
         Memasukkan warna latar
         belakang pada tag
+== text - alignt
+        text align berfungsi 
+        supaya tulisannya bisa
+        diatur mau kiri,kanan
+        ,tengah,atau rapih
+
+== padding "10px"
+        untuk memberi jarak dari 
+        pojok kiri atas
+== border "1px solid green"
+        untuk memberi garis kotak dari
+        from yang ditandai
+
+
+
+==============================================================
+
+
+
+== <span>
+        tag yang tidak berfungsi
+        ,tapi sebagai penggunaan
+        class/id untuk style
+== <div>
+        berguna untuk layout website,
+        jadi distyle hanya di dalam tag
+        div saja
+

@@ -1,0 +1,29 @@
+    /* foreground color*/
+/* color name */
+h1{
+    color: darkcyan;
+}
+/* hex code */
+h2{
+    color: #c22961;
+}
+/* rgb value */
+p{
+    color: rgb(81, 172, 238);
+}
+
+
+    /* backround color */
+/* color name */
+h1
+{
+    background-color: red;
+}
+/* hex color */
+h2{
+    background-color: #efefef;
+}
+/* rg color */
+p{
+    background-color: rgb(201, 224, 196);
+}

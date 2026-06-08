@@ -1,0 +1,44 @@
+/* Universal selector */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* general selector */
+h1{
+    color:green;
+}
+
+/* class selector */
+p.Ridho{
+    color: darkblue;
+}
+
+/* id selector */
+#sarapan{
+    color: brown;
+}
+
+
+
+/*  */
+p>b{
+    color: yellow;
+}
+
+/*  */
+p b{
+    color: red;
+}
+
+/*  */
+h2+p{
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+
+/*  */
+h2~p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
